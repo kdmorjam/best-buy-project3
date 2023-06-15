@@ -1,7 +1,7 @@
 # BestBuy-project3
 Project 3 for Data Analytics Bootcamp UofT
 
-                   ![Alt text](image.png)
+                 <img width="701" alt="image" src="https://github.com/kdmorjam/best-buy-project3/assets/123206066/c7d14fd1-3a8b-41e4-a63e-5494f430e88a">
 
 
 We analysed our data from the BestBuy's website, usinf web scraping we focused on the TV categories. 
